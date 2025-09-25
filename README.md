@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Yeast mating in wasp intestines
 [/Yeast mating in wasp intestines/]: <> (Give a project description: What your application does,
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.)
@@ -9,12 +9,12 @@ Some of the challenges you faced and features you hope to implement in the futur
 **This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [MIT License](http://choosealicense.com/licenses/mit/) for more details.**
 ***
 
-## Table of Contents
-##[//]: <> (Optional, if you have a very long README, 
-##you might want to add a table of contents to make it easy for users to navigate to different sections easily.)
+Table of Contents
+[//]: <> (Optional, if you have a very long README, 
+you might want to add a table of contents to make it easy for users to navigate to different sections easily.)
 
 ## Installation
-[/Installation instructions for COMETS and COMETSpy can be found at https://www.runcomets.org /]: <> (Provide step-by-step instructions on how to install your project. 
+[/Installation instructions for COMETS and COMETSpy can be found at https://www.runcomets.org /]: <Installation instructions> (Provide step-by-step instructions on how to install your project. 
 Even if it isn't a software package, give instructions on how to run locally. 
 You should include the steps required to install your project and also the required dependencies if any.
 Provide a step-by-step description of how to get the development environment set and running.)
