@@ -18,23 +18,14 @@ You should include the steps required to install your project and also the requi
 Provide a step-by-step description of how to get the development environment set and running.)
 
 ## How to Use this Project
-### This is a project related to the publication: Wasp intestine cues drive yeast toward outbreeding strategies 
+#### This is a project related to the publication: 
 
-### Authors:
-### Silvia Abbà, Liam D. Adair, Francesca Barbero, Luca P. Casacci, Iljia Dukovski, Francisca Font, Tom Hawtrey, Elizabeth J. New, Jukkrit Nootem, Pramsak Patawanich, Lukas Patten, Marco Polin, Daniel Segrè, Nian Kee Tan, Irene Stefanini
+### Wasp intestine cues drive yeast toward outbreeding strategies 
+
+#### Authors:
+#### Silvia Abbà, Liam D. Adair, Francesca Barbero, Luca P. Casacci, Iljia Dukovski, Francisca Font, Tom Hawtrey, Elizabeth J. New, Jukkrit Nootem, Pramsak Patawanich, Lukas Patten, Marco Polin, Daniel Segrè, Nian Kee Tan, Irene Stefanini
 [//]: <> (Provide instructions and examples so users/contributors can use the project.
 Explain what the code does and how to run it.
 Include screenshots/examples. This may be superseded by an external documentation site.)
 
-Documentation
-[//]: <> (If you have made the documentation available on a website provide a link, i.e. with:
-Additional documentation is online at insert-address-here)
 
-Citing this Project
-[//]: <> (Credit the developers of this code and point to any papers that users should cite.)
-
-Contributing
-[//]: <> (If this is an open-source project that you will need other developers to contribute to,
-you can use the included guidelines to let them know how they can contribute to your project.)
-We welcome contributions that patch bugs, improve existing capabilities or documentation, or add new capabilities!
-For guidance on how to contribute to this project, see CONTRIBUTING.md.
